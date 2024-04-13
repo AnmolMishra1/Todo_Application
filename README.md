@@ -9,7 +9,7 @@ In the project directory, you can run:
 USING npm install
 ## Although Using Package-lock .Json Node Module will be installed accordingly.
 ## If any Error will Occur related to Redux then Install it Using NPM:
-npm install redux
+npm install redux\
 npm install react-redux
 ### `npm start`
 Runs the app in the development mode.\
