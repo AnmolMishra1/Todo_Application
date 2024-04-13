@@ -5,9 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+## Install Node Moudule
+USING npm install
+## Although Using Package-lock .Json Node Module will be installed accordingly.
+## If any Error will Occur related to Redux then Install it Using NPM:
+npm install redux
+npm install react-redux
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
